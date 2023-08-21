@@ -1,0 +1,65 @@
+body{
+    background-image:url("IMG_20230819_194246.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-blend-mode: overlay;
+
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 35px;
+    margin-top: 50px;
+}
+.image1{
+    margin:0;
+    padding: 0;
+}
+p{
+    font-size: 24px;
+    font-weight: bold;
+    display: inline-block;
+}
+.container2 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+.image2{
+    margin-top: 0%;
+    margin-left: 95%;
+    
+}
+summary{
+    font-size: 24px;
+    font-weight: bold;
+}
+li{
+    font-size: 24px;
+    font-weight: bold;
+     list-style-type: circle;
+}
+.image4{
+    
+    margin-left: 95%;
+}
+.image5{
+    align-items: center;
+    margin-left: 27%;
+    
+}
+.container3 {
+    display: grid;
+    align-items: center; 
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 5px;
+}
+.quote{
+    text-indent: 30%;
+    text-align: center;
+    width: 75%;
+}
